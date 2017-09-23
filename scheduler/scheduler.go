@@ -1,8 +1,8 @@
 package scheduler
 
 import (
-	"TaskScheduler/job"
-	"TaskScheduler/trigger"
+	"github.com/zcytop/TaskScheduler/job"
+	"github.com/zcytop/TaskScheduler/trigger"
 	"log"
 	"time"
 )

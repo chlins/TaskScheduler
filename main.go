@@ -1,9 +1,9 @@
 package main
 
 import (
-	"TaskScheduler/job"
-	"TaskScheduler/scheduler"
-	"TaskScheduler/trigger"
+	"github.com/zcytop/TaskScheduler/job"
+	"github.com/zcytop/TaskScheduler/scheduler"
+	"github.com/zcytop/TaskScheduler/trigger"
 	"log"
 	"time"
 )
